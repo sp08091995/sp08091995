@@ -21,7 +21,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/santanuphukan1/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/santanuphukan1/)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/santanuphukn1/) 
-[![Visits Badge](https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png)](https://github.com/sp08091995)
+[![Visits Badge](https://img.shields.io/badge/github-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=black)](https://github.com/sp08091995)
 
 </p>
 
